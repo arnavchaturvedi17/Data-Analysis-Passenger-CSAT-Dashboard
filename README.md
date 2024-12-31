@@ -8,6 +8,9 @@ I have a strong analytics skill set, especially in Excel, SQL and Tableau.
 With prior experience managing and analyzing large datasets, I have developed impactful solutions such as dynamic interactive dashboards (such as fatality data analysis, sales data analysis, financial data analysis; to name a few), helping business users make informed decisions.
 I specialized in implementation of end-to-end financial and data analysis projects... from business requirement gathering to data gathering, data cleaning/pre-processing, data analysis, data visualization, translating complex data insights into actionable recommendations for organization.
 
+###  The Dashboard.	Please visit my Tableau Public account.
+* Dashboard Link: [https://public.tableau.com/app/profile/arnav.chaturvedi/viz/BritishAirwaysReviews_17349888827570/CompleteDashboard](https://public.tableau.com/app/profile/arnav.chaturvedi/viz/BritishAirwaysReviews_17349888827570/CompleteDashboard)
+  
 ## Portfolio Project Overview:
 British Airways (BA), one of the world’s leading airlines, has a rich history of providing air travel services to millions of passengers each year. The airline has grown to become a major player in the aviation industry, known for its extensive network, quality service, and commitment to passenger comfort and safety. As the airline industry becomes increasingly competitive, maintaining high levels of customer satisfaction is essential for retaining customers and fostering loyalty.
 In recent years, the proliferation of digital communication channels has led to an explosion in customer feedback. Passengers now share their experiences through various platforms, including in-flight surveys, online reviews, social media, and direct communications with customer service. This feedback contains valuable insights into passengers’ experiences, preferences, and expectations.
