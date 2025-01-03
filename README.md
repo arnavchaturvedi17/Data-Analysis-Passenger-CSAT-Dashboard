@@ -8,7 +8,8 @@ I have a strong analytics skill set, especially in Excel, SQL and Tableau.
 With prior experience managing and analyzing large datasets, I have developed impactful solutions such as dynamic interactive dashboards (such as fatality data analysis, sales data analysis, financial data analysis; to name a few), helping business users make informed decisions.
 I specialized in implementation of end-to-end financial and data analysis projects... from business requirement gathering to data gathering, data cleaning/pre-processing, data analysis, data visualization, translating complex data insights into actionable recommendations for organization.
 
-###  The Dashboard.	Please visit my Tableau Public account.
+###  The Tableau Dashboard. Please visit my Tableau Public account.
+Use CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link to open in a new browser tab.
 * Dashboard Link: [https://public.tableau.com/app/profile/arnav.chaturvedi/viz/BritishAirwaysReviews_17349888827570/CompleteDashboard](https://public.tableau.com/app/profile/arnav.chaturvedi/viz/BritishAirwaysReviews_17349888827570/CompleteDashboard)
   
 ## Portfolio Project Overview:
@@ -103,6 +104,7 @@ This dynamic analysis dashboard will be used for the following job roles to incr
 * Data Analysis-Passenger-CSAT-Dashboard.twbx
 
 ###  The Dashboard.	Please visit my Tableau Public account.
+Use CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link to open in a new browser tab.
 * Dashboard Link: [https://public.tableau.com/app/profile/arnav.chaturvedi/viz/BritishAirwaysReviews_17349888827570/CompleteDashboard](https://public.tableau.com/app/profile/arnav.chaturvedi/viz/BritishAirwaysReviews_17349888827570/CompleteDashboard)
   
 ### Sceenshot: Dynamic and Interactive Dashboard.
